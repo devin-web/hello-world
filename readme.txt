@@ -1,2 +1,2 @@
-hello
+hello!
 cats are awesome
